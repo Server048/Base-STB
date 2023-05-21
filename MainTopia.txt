@@ -1,0 +1,9 @@
+COPY FOR IPHONE:
+www.growtopia1.com = 139.162.48.136
+www.growtopia2.com = 139.162.48.136
+
+COPY FOR ANDROID:
+139.162.48.136 www.growtopia1.com
+139.162.48.136 www.growtopia2.com
+139.162.48.136 www.growtopia1.com
+139.162.48.136 www.growtopia2.com
