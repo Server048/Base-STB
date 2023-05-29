@@ -1,10 +1,10 @@
 COPY FOR IPHONE:
-www.growtopia1.com = 54.179.16.213
-www.growtopia2.com = 54.179.16.213
+www.growtopia1.com = 43.156.127.8
+www.growtopia2.com = 43.156.127.8
 
 COPY FOR ANDROID:
-54.179.16.213 www.growtopia1.com
-54.179.16.213 www.growtopia2.com
-54.179.16.213 www.growtopia1.com
-54.179.16.213 www.growtopia2.com
+43.156.127.8 www.growtopia1.com
+43.156.127.8 www.growtopia2.com
+43.156.127.8 www.growtopia1.com
+43.156.127.8 www.growtopia2.com
 HEEEHEEE
