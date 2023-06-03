@@ -5,6 +5,9 @@ www.growtopia2.com = 43.156.127.8
 COPY FOR ANDROID:
 43.156.127.8 www.growtopia1.com
 43.156.127.8 www.growtopia2.com
-43.156.127.8 www.growtopia1.com
-43.156.127.8 www.growtopia2.com
+43.156.127.8 growtopia1.com
+43.156.127.8 growtopia2.com
+43.156.127.8 growtopiagame.com
+43.156.127.8 hamumu.com
+43.156.127.8 rtsoft.com
 HEEEHEEE
